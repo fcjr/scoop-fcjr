@@ -1,0 +1,21 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/fcjr/smock/releases/download/v0.0.1/smock_0.0.1_windows_i386.tar.gz",
+            "bin": [
+                "smock.exe"
+            ],
+            "hash": "ee82ba715573b4ba4125321c892455d778091f290ec747e3da031f7565384a7e"
+        },
+        "64bit": {
+            "url": "https://github.com/fcjr/smock/releases/download/v0.0.1/smock_0.0.1_windows_x86_64.tar.gz",
+            "bin": [
+                "smock.exe"
+            ],
+            "hash": "ae4e6f9c9de41ecbcdee3b30ac7b096cee4901c5c722ae3bed31ce553520add9"
+        }
+    },
+    "homepage": "https://www.leftshift.com",
+    "description": "Smock Image Editor"
+}
