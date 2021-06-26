@@ -1,19 +1,19 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/fcjr/smock/releases/download/v0.0.2/smock_0.0.2_windows_i386.tar.gz",
+            "url": "https://github.com/fcjr/smock/releases/download/v0.0.3/smock_0.0.3_windows_i386.tar.gz",
             "bin": [
                 "smock.exe"
             ],
-            "hash": "dfec7b09bb8a84b58546c5d1fb4cec14520b1f8f613b565dbed3b0ab3c4a3bb2"
+            "hash": "161185755da8f59c1a731dd2a4bf5641e5c0745e2d6d2b5b659412c7ab4b2b0d"
         },
         "64bit": {
-            "url": "https://github.com/fcjr/smock/releases/download/v0.0.2/smock_0.0.2_windows_x86_64.tar.gz",
+            "url": "https://github.com/fcjr/smock/releases/download/v0.0.3/smock_0.0.3_windows_x86_64.tar.gz",
             "bin": [
                 "smock.exe"
             ],
-            "hash": "2ef967227db6c3a5fccde4fe2edbc1385563232523d147c6200f8943763226e6"
+            "hash": "4e7ea1bd600eab2276ca98ff7bf9bc477378cb6aff248d52d73f15dbfbab7769"
         }
     },
     "homepage": "https://www.leftshift.com",
