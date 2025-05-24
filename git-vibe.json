@@ -1,0 +1,21 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/fcjr/git-vibe/releases/download/v0.0.1/git-vibe_Windows_i386.zip",
+            "bin": [
+                "git-vibe.exe"
+            ],
+            "hash": "fd20815e15bb9d3d56ff0f4657fa57ace613245b112f14e0e6aa6a096ea54b5a"
+        },
+        "64bit": {
+            "url": "https://github.com/fcjr/git-vibe/releases/download/v0.0.1/git-vibe_Windows_x86_64.zip",
+            "bin": [
+                "git-vibe.exe"
+            ],
+            "hash": "aeda07d46a887ad3769511d2fc2b925197e86bbfa4fa18e01b8bd631a9b4389f"
+        }
+    },
+    "homepage": "https://github.com/fcjr/git-vibe",
+    "description": "git-vibe is a git plugin that uses an llm to help with common git tasks"
+}
