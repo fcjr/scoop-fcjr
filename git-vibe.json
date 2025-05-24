@@ -1,19 +1,19 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/fcjr/git-vibe/releases/download/v0.0.1/git-vibe_Windows_i386.zip",
+            "url": "https://github.com/fcjr/git-vibe/releases/download/v0.0.2/git-vibe_Windows_i386.zip",
             "bin": [
                 "git-vibe.exe"
             ],
-            "hash": "fd20815e15bb9d3d56ff0f4657fa57ace613245b112f14e0e6aa6a096ea54b5a"
+            "hash": "abc7c834cfbcd465fca1d5c93b85bc543837c9be1296b1a6f4da8f4935781b74"
         },
         "64bit": {
-            "url": "https://github.com/fcjr/git-vibe/releases/download/v0.0.1/git-vibe_Windows_x86_64.zip",
+            "url": "https://github.com/fcjr/git-vibe/releases/download/v0.0.2/git-vibe_Windows_x86_64.zip",
             "bin": [
                 "git-vibe.exe"
             ],
-            "hash": "aeda07d46a887ad3769511d2fc2b925197e86bbfa4fa18e01b8bd631a9b4389f"
+            "hash": "89b7f7eb33d563d6dd4c355b62af37f831a371c45fd0c8bf3ad9e1e8ca42b258"
         }
     },
     "homepage": "https://github.com/fcjr/git-vibe",
