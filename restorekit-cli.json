@@ -1,0 +1,15 @@
+{
+    "version": "0.1.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/fcjr/restorekit/releases/download/v0.1.4/restorekit_0.1.4_windows_amd64.zip",
+            "bin": [
+                "restorekit.exe"
+            ],
+            "hash": "64ef98656328ba989c8abb74d854c0779f9b6fcdb33641967b9a3873cc1534ed"
+        }
+    },
+    "homepage": "https://github.com/fcjr/restorekit",
+    "license": "Apache-2.0",
+    "description": "DFU-restore Apple Silicon Macs from the command line"
+}
