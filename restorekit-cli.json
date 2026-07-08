@@ -1,12 +1,12 @@
 {
-    "version": "0.4.1",
+    "version": "0.4.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fcjr/restorekit/releases/download/v0.4.1/restorekit_0.4.1_windows_amd64.zip",
+            "url": "https://github.com/fcjr/restorekit/releases/download/v0.4.2/restorekit_0.4.2_windows_amd64.zip",
             "bin": [
                 "restorekit.exe"
             ],
-            "hash": "2cc0cf29152df0b2d0226bf2af69e42802b0ede15c876060e3203ce5c114e85f"
+            "hash": "51bf1a616f8c10a8c42815f57de6151952e3dc8828cb7e4f39927c6202b8b144"
         }
     },
     "homepage": "https://github.com/fcjr/restorekit",
